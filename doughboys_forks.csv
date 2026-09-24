@@ -1,0 +1,457 @@
+episode,ep_num,date,restaurant,theme_unit,nick,mitch,guest_avg,n_guests,guests,live,above5
+Taco Bell with Jack Allison,2.0,2015-05-25,Taco Bell,Fork rating,3.0,5.0,5.0,1,Jack Allison,False,False
+Long John Silver's with Mary Holland,5.0,2015-06-11,Long John Silver's,Fork rating,2.0,2.5,4.0,1,Mary Holland,False,False
+TGI Fridays with Jordan Morris,6.0,2015-06-18,TGI Fridays,Fork rating,4.0,4.5,3.0,1,Jordan Morris,False,False
+Umami Burger with Heather Anne Campbell,8.0,2015-07-02,Umami Burger,Fork rating,3.0,2.5,2.0,1,Heather Anne Campbell,False,False
+Carl’s Jr./Hardee’s with Ben Axelrad,9.0,2015-07-09,Carl's Jr./Hardee's,Fork rating,4.0,4.0,,0,,False,False
+Domino’s with Matt Kowalick,10.0,2015-07-16,Domino's,Fork rating,3.0,4.0,4.0,1,Matt Kowalick,False,False
+Carrows with Erin Whitehead,11.0,2015-07-23,Carrows,Fork rating,2.0,2.0,,0,,False,False
+Chick-fil-A with Betsy Sodaro,12.0,2015-07-29,Chick-fil-A,Fork rating,4.0,4.5,5.0,1,Betsy Sodaro,False,False
+Denny’s with Farley Elliott,13.0,2015-08-06,Denny's,Fork rating,3.0,3.0,3.5,1,Farley Elliott,False,False
+Original Tommy’s with Jim Woods,14.0,2015-08-12,Original Tommy's,Fork rating,3.5,3.5,3.5,1,Jim Woods,False,False
+Boston Market with Annie Mebane,15.0,2015-08-19,Boston Market,Fork rating,3.5,3.5,3.5,1,Annie Mebane,False,False
+In-N-Out Burger with Armen Weitzman,16.0,2015-08-27,In-N-Out Burger,Fork rating,5.0,5.0,5.0,1,Armen Weitzman,False,False
+Subway with Fran Gillespie,17.0,2015-09-03,Subway,Fork rating,2.0,3.0,2.0,1,Fran Gillespie,False,False
+Buffalo Wild Wings with Matt Selman,19.0,2015-09-18,Buffalo Wild Wings,Fork rating,4.0,4.0,4.33,1,Matt Selman,False,False
+Starbucks with Joe Saunders,20.0,2015-09-24,Starbucks,Fork rating,3.0,2.5,3.0,1,Joe Saunders,False,False
+L&L Hawaiian Barbecue with Eugene Cordero,21.0,2015-10-01,L&L Hawaiian Barbecue,Fork rating,4.0,4.0,4.5,1,Eugene Cordero,False,False
+Rockdoughberfest: Cabo Wabo Cantina with Julie Brister,22.0,2015-10-08,Cabo Wabo Cantina,Fork rating,3.5,2.0,4.0,1,Julie Brister,False,False
+Rockdoughberfest: Margaritaville with Mike Carlson,23.0,2015-10-15,Margaritaville,Fork rating,3.0,2.5,4.0,1,Mike Carlson,False,False
+Rockdoughberfest: Hard Rock Cafe with Scott Gairdner,24.0,2015-10-22,Hard Rock Cafe,Fork rating,2.0,2.0,2.5,1,Scott Gairdner,False,False
+Rockdoughberfest: Rock & Brews with Zoe Jarman,25.0,2015-10-29,Rock & Brews,Fork rating,3.5,3.0,3.0,1,Zoe Jarman,False,False
+Burger King with John Roy,26.0,2015-11-05,Burger King,Fork rating,3.0,3.5,4.0,1,John Roy,False,False
+Fuddruckers with Ryan Perez,27.0,2015-11-11,Fuddruckers,Fork rating,5.0,4.0,4.0,1,Ryan Perez,False,False
+Del Taco with Alan Yang,28.0,2015-11-19,Del Taco,Fork rating,5.0,4.5,4.0,1,Alan Yang,False,False
+Wingstop with Emmy Blotnick,29.0,2015-12-03,Wingstop,Fork rating,3.0,4.0,2.5,1,Emmy Blotnick,False,False
+Arby’s with Vanessa Ramos,30.0,2015-12-10,Arby's,Fork rating,4.0,3.5,3.0,1,Vanessa Ramos,False,False
+Steak ‘n Shake 2 with Evan Susser,31.0,2015-12-17,Steak 'n Shake,Fork rating,5.0,5.0,5.0,1,Evan Susser,False,False
+Pizza Hut with Neil Campbell,32.0,2016-01-07,Pizza Hut,Fork rating,2.5,3.0,1.0,1,Neil Campbell,False,False
+Five Guys with Jefferson Dutton,33.0,2016-01-14,Five Guys,Fork rating,4.0,4.0,3.5,1,Jefferson Dutton,False,False
+California Pizza Kitchen with Eva Anderson,34.0,2016-01-21,California Pizza Kitchen,Fork rating,3.5,2.5,3.5,1,Eva Anderson,False,False
+Krispy Kreme with Matt Besser,35.0,2016-01-28,Krispy Kreme,Fork rating,3.5,3.0,5.0,1,Matt Besser,False,False
+Togo’s with Matty Smith,36.0,2016-02-04,Togo's,Fork rating,3.0,2.0,1.0,1,Matty Smith,False,False
+Panda Express with Tricia McAlpin,37.0,2016-02-11,Panda Express,Fork rating,2.5,3.0,4.0,1,Tricia McAlpin,False,False
+Mimi’s Cafe with Georgia Hardstark,38.0,2016-02-18,Mimi's Cafe,Fork rating,4.3,3.0,3.0,1,Georgia Hardstark,False,False
+Wendy’s with Paul Rust,39.0,2016-02-25,Wendy's,Fork rating,5.0,5.0,5.0,1,Paul Rust,False,False
+Veggie Grill with Nathan Barnatt,47.0,2016-04-03,Veggie Grill,Fork rating,4.5,4.0,5.0,1,Nathan Barnatt,False,False
+Chuck E. Cheese’s with Erin McGathy,48.0,2016-04-14,Chuck E. Cheese's,Fork rating,1.5,1.5,1.25,1,Erin McGathy,False,False
+Sweetgreen with Siobhan Thompson,49.0,2016-04-21,Sweetgreen,Fork rating,4.0,4.0,4.0,1,Siobhan Thompson,False,False
+Hillstone with David Phillips,50.0,2016-04-28,Hillstone,Fork rating,5.0,5.0,5.0,1,David Phillips,False,False
+The Olive Garden with Christine Nangle,51.0,2016-05-05,Olive Garden,Fork rating,2.5,1.5,1.5,1,Christine Nangle,True,False
+Morton’s The Steakhouse with Tim Kalpakis,52.0,2016-05-12,Morton's The Steakhouse,Fork rating,5.0,5.0,5.0,1,Tim Kalpakis,False,False
+Yoshinoya with Jensen Karp,53.0,2016-05-19,Yoshinoya,Fork rating,1.0,2.0,2.5,2,Jensen Karp; Jensen Karp*,False,False
+Popeyes Louisiana Kitchen with Lesley Arfin,54.0,2016-05-26,Popeyes,Fork rating,4.5,3.5,3.0,1,Lesley Arfin,False,False
+Baja Fresh with Claudia O’Doherty,55.0,2016-06-02,Baja Fresh,Fork rating,3.0,2.0,2.0,1,Claudia O’Doherty,False,False
+Jollibee with Jonah Ray,56.0,2016-06-09,Jollibee,Fork rating,3.0,2.75,2.5,1,Jonah Ray,False,False
+Hokkaido Ramen Santouka with Jeff Kenji Sloniker,57.0,2016-06-16,Hokkaido Ramen Santouka,Fork rating,4.0,5.0,5.0,1,Jeff Kenji Sloniker,False,False
+Pinkberry with Lauren Lapkus,58.0,2016-06-23,Pinkberry,Fork rating,3.0,3.0,3.0,1,Lauren Lapkus,False,False
+Bubba Gump Shrimp Co. with Paul Scheer,60.0,2016-07-07,Bubba Gump Shrimp Co.,Fork rating,3.0,3.0,3.0,1,Paul Scheer,False,False
+Bob’s Big Boy with Dave Ferguson,61.0,2016-07-14,Bob's Big Boy,Fork rating,4.0,3.9,4.0,1,Dave Ferguson,False,False
+Fatburger with Yamara Taylor,62.0,2016-07-20,Fatburger,Fork rating,4.5,5.0,4.5,1,Yamara Taylor,False,False
+7-Eleven with Fran Gillespie (Live),63.0,2016-07-28,7-Eleven,Fork rating,3.0,3.5,3.0,1,Fran Gillespie,True,False
+The Cheesecake Factory with Beck Bennett,67.0,2016-08-25,The Cheesecake Factory,Fork rating,5.0,5.0,5.0,1,Beck Bennett,False,False
+Red Robin with D'Arcy Carden,68.0,2016-09-01,Red Robin,Fork rating,3.0,4.0,,0,,False,False
+Yogurtland with Van Robichaux,69.0,2016-09-08,Yogurtland,Fork rating,2.0,3.5,1.5,1,Van Robichaux,False,False
+Baskin-Robbins with Dave King,71.0,2016-09-22,Baskin-Robbins,Little Pink Spoon rating,5.0,4.0,3.5,1,Dave King,False,False
+Dairy Queen with Christine Nangle and Matt Selman Live At L.A. Podfest 2016,72.0,2016-09-29,Dairy Queen,Fork rating,4.0,5.0,,0,,True,False
+Rocklobsterfest: Red Lobster 2 with Ross Kimball,74.0,2016-10-13,Red Lobster,Lobster Claw rating 🦞,3.5,2.25,3.0,1,Ross Kimball,False,False
+Rocklobsterfest: Red Lobster 4 with Sean Clements & Hayes Davenport,76.0,2016-10-27,Red Lobster,Lobster Claws and Candied Apples rating 🦞 🍎,3.0,2.5,2.25,2,Sean Clements; Hayes Davenport,False,False
+Cold Stone Creamery with Kevin T. Porter,77.0,2016-11-02,Cold Stone Creamery,Spoon rating 🥄,4.0,2.0,3.0,1,Kevin T. Porter,False,False
+Wood Ranch with Esther Povitsky,78.0,2016-11-10,Wood Ranch,Fork rating,4.5,2.5,4.0,1,Esther Povitsky,False,False
+Church's Chicken with Demi Adejuyigbe,79.0,2016-11-17,Church's Chicken,Fork rating,4.5,4.0,5.0,1,Demi Adejuyigbe,False,False
+Hooters with Kulap Vilaysack,80.0,2016-12-08,Hooters,Fork rating,2.0,2.5,2.0,1,Kulap Vilaysack,False,False
+Jack in the Box with Spencer Crittenden,81.0,2016-12-08,Jack in the Box,Fork rating,5.0,3.5,3.5,1,Spencer Crittenden,False,False
+Steak 'n Shake 3 with Evan Susser,82.0,2016-12-15,Steak 'n Shake,Fork rating,2.0,2.0,,0,,False,False
+Tender Greens with Ryan Stanger,83.0,2017-01-05,Tender Greens,Fork rating,3.0,3.0,3.5,1,Ryan Stanger,False,False
+Buca di Beppo with Drew McWeeny,84.0,2017-01-12,Buca di Beppo,Fork rating,2.5,2.5,2.75,1,Drew McWeeny,False,False
+Tony Roma's with Bug Mane,85.0,2017-01-19,Tony Roma's,Fork rating,3.5,4.0,5.0,1,Bug Mane,False,False
+Taco Bell 2 with Jon Gabrus (LIVE),86.0,2017-01-26,Taco Bell,Fork rating,4.0,5.0,5.0,1,Jon Gabrus,True,False
+Taco Bell 3 with Bobby Lee,87.0,2017-02-02,Taco Bell,Fork rating,4.5,5.0,5.0,1,Bobby Lee,False,False
+BJ's with Sean Clements & Hayes Davenport,88.0,2017-02-09,BJ's,Fork rating,5.0,3.5,3.25,2,Sean Clements; Hayes Davenport,False,False
+In-N-Out Burger 2 with ???,90.0,2017-02-23,In-N-Out Burger,Fork rating,5.0,4.5,,0,,False,False
+Jamba Juice with Dylan Gelula,98.0,2017-04-06,Jamba Juice,Fork rating,2.0,2.5,1.0,1,Dylan Gelula,False,False
+Jimmy John's with Lauren Lapkus,99.0,2017-04-13,Jimmy John's,Fork rating,3.5,2.5,4.0,1,Lauren Lapkus,False,False
+Wetzel's Pretzels with Jon Daly,101.0,2017-04-27,Wetzel's Pretzels,Fork rating,4.0,3.0,0.5,1,Jon Daly,False,False
+Mr. Pizza with Jesse Thorn,102.0,2017-05-04,Mr. Pizza,Fork ratings,3.0,2.0,2.5,1,Jesse Thorn,False,False
+Carl's Jr./Hardee's 2 with Chris VanArtsdalen,103.0,2017-05-11,Carl's Jr./Hardee's,Fork rating,4.0,4.0,4.0,1,Chris VanArtsdalen,False,False
+Sharky's with Erin McGathy,104.0,2017-05-18,Sharky's,Fork rating,3.0,3.0,3.0,1,Erin McGathy,False,False
+IKEA with Dave Thomason,105.0,2017-05-25,IKEA,Fork rating,4.0,3.0,5.0,1,Dave Thomason,False,False
+The Coffee Bean with Hannah Kasulka,106.0,2017-05-31,The Coffee Bean,Spoon Rating 🥄,4.0,3.666,4.0,1,Hannah Kasulka,False,False
+Jersey Mike's with Drew Tarver,107.0,2017-06-07,Jersey Mike's,Fork rating,3.5,3.5,4.0,1,Drew Tarver,False,False
+Sizzler with Marisa Pinson,108.0,2017-06-15,Sizzler,Fork rating,4.0,4.5,4.0,1,Marisa Pinson,False,False
+Burger King 2 with Jordan Morris (LIVE),109.0,2017-06-22,Burger King,Fork rating,1.0,2.0,1.5,1,Jordan Morris,True,False
+Claim Jumper with Heather Anne Campbell,110.0,2017-06-29,Claim Jumper,Fork rating,2.0,2.0,2.75,1,Heather Anne Campbell,False,False
+Shake Shack with Jason Concepcion,111.0,2017-07-06,Shake Shack,Fork rating,4.5,5.0,4.0,1,Jason Concepcion,False,False
+Umami Burger 2 with David Neher,112.0,2017-07-12,Umami Burger,Fork rating,3.5,3.25,4.0,1,David Neher,False,False
+Golden Corral with Stoney Sharp,113.0,2017-07-20,Golden Corral,Fork rating,4.0,2.75,3.0,1,Stoney Sharp,False,False
+Dunkin' Donuts with Joe Mande,114.0,2017-07-27,Dunkin',Fork rating,4.0,5.0,4.0,1,Joe Mande,False,False
+IHOP 2 with Danny Jelinek,115.0,2017-08-03,IHOP,Fork and Dinner Plate rating 🍽️,4.0,3.25,3.5,1,Danny Jelinek,False,False
+Roscoe's House of Chicken and Waffles with Carl Tart,116.0,2017-08-10,Roscoe's House of Chicken and Waffles,Fork rating,5.0,5.0,5.0,1,Carl Tart,False,False
+Daphne's with Jessica Jean Jardine,117.0,2017-08-17,Daphne's,Fork rating,3.5,4.0,4.0,1,Jessica Jean Jardine,False,False
+Chipotle 2 with Chelsea Davison,118.0,2017-08-24,Chipotle,Fork rating,4.0,3.75,4.0,1,Chelsea Davison,False,False
+KFC with Paul F. Tompkins,119.0,2017-08-31,KFC,Fork rating,4.0,3.5,4.0,1,Paul F. Tompkins,False,False
+HomeTown Buffet with Toni Charline,120.0,2017-09-07,HomeTown Buffet,Fork rating,1.0,1.0,2.0,1,Toni Charline,False,False
+Shakey’s Pizza with Kyle Mooney,121.0,2017-09-14,Shakey's Pizza,Fork rating,3.5,3.5,3.5,1,Kyle Mooney,False,False
+El Pollo Loco with Lamar Woods,122.0,2017-09-21,El Pollo Loco,Fork rating,3.5,2.5,3.0,1,Lamar Woods,False,False
+Guy’s American Kitchen with Christine Nangle (LIVE),123.0,2017-09-28,Guy's American Kitchen,Fork rating,2.0,2.5,3.0,1,Christine Nangle,True,False
+Yard House with Matt Besser,124.0,2017-10-05,Yard House,Gatorade Jug rating,3.5,3.5,4.0,1,Matt Besser,False,False
+ESPN Zone with Neil Campbell,125.0,2017-10-12,ESPN Zone,Gatorade Jug rating,1.0,1.75,1.0,1,Neil Campbell,False,False
+Medieval Times with Mary Holland and Matt Newell,126.0,2017-10-19,Medieval Times,Gatorade Jug rating,5.0,4.5,5.0,2,Matt Newell; Mary Holland,False,False
+Arby’s 2 with John Hodgman,128.0,2017-11-02,Arby's,Fork rating,3.0,3.0,1.25,1,John Hodgman,False,False
+Wienerschnitzel with Rob Huebel,129.0,2017-11-09,Wienerschnitzel,Fork rating,4.5,3.75,3.0,1,Rob Huebel,False,False
+Dick’s Drive-In with Evan Susser (LIVE),130.0,2017-11-16,Dick's Drive-In,Fork rating,5.0,4.5,4.5,1,Evan Susser,True,False
+Chick-fil-A with Noël Wells,131.0,2017-11-29,Chick-fil-A,Fork rating,4.0,3.75,3.5,1,Noël Wells,False,False
+Fosters Freeze with Holly Prazoff,132.0,2017-12-07,Fosters Freeze,Fork rating,4.0,4.0,5.0,1,Holly Prazoff,False,False
+Torchy's Tacos with Jon Gabrus (LIVE in Austin),133.0,2017-12-14,Torchy's Tacos,Fork rating,4.0,4.5,4.0,1,Jon Gabrus,True,False
+Cinnabon with Nicole Byer,134.0,2017-12-21,Cinnabon,Fork rating,4.0,3.33,4.0,1,Nicole Byer,False,False
+Shipley Do-Nuts with Jon Gabrus (LIVE),136.0,2018-01-10,Shipley Do-Nuts,Fork rating,4.0,4.0,4.0,1,Jon Gabrus,True,False
+Delta Sky Club with John Hodgman,186.0,2018-01-17,Delta Sky Club,Diamond Medallion Rating 💎,3.0,3.0,2.75,1,John Hodgman,False,False
+Whataburger with Jon Gabrus (LIVE),138.0,2018-01-25,Whataburger,Fork rating,4.0,4.5,4.0,1,Jon Gabrus,True,False
+The Halal Guys with Dave Schilling,139.0,2018-02-01,The Halal Guys,Fork rating,3.0,4.0,4.0,1,Dave Schilling,False,False
+Checkers and Rally's with Neil Punsalan,140.0,2018-02-08,Checkers and Rally's,Fork rating,3.0,2.95,2.0,1,Neil Punsalan,False,False
+Sugarfish with Jason Mantzoukas,141.0,2018-02-15,Sugarfish,Fork rating,5.0,5.0,5.0,1,Jason Mantzoukas,False,False
+Ike's with Spencer Crittenden (LIVE),142.0,2018-02-22,Ike's,Fork rating,4.5,4.5,5.0,1,Spencer Crittenden,True,False
+Coco's with Alison Rosen,148.0,2018-04-05,Coco's,Fork rating,2.25,1.75,1.75,1,Alison Rosen,False,False
+The Pie Hole with Marcy Jarreau,149.0,2018-04-12,The Pie Hole,Fork rating,2.0,4.5,4.5,1,Marcy Jarreau,False,False
+Olive Garden 2 with Joel Kim Booster,152.0,2018-05-03,Olive Garden,Fork rating,3.0,2.85,4.5,1,Joel Kim Booster,True,False
+Ruth's Chris Steak House with Andrew Secunda,153.0,2018-05-10,Ruth's Chris Steak House,Fork rating,4.5,4.5,4.0,1,Andrew Secunda,False,False
+Denny's Solo Menu with Matt Mira,155.0,2018-05-24,Denny's Solo Menu,Vest rating 🦺,4.0,4.0,4.0,1,Matt Mira,False,False
+Taco Bell 4 with Gillian Jacobs,156.0,2018-05-31,Taco Bell,Fork rating,5.0,5.0,2.0,1,Gillian Jacobs,False,False
+Gus's World Famous Fried Chicken with Ben Gruber,157.0,2018-06-07,Gus's World Famous Fried Chicken,Fork rating,5.0,4.0,4.0,1,Ben Gruber,False,False
+Quizno's with Haley Joel Osment,158.0,2018-06-13,Quizno's,Fork rating,3.5,3.25,3.0,1,Haley Joel Osment,False,False
+Firehouse Subs with Mary Sohn,159.0,2018-06-21,Firehouse Subs,Fork rating,4.5,3.75,2.0,1,Mary Sohn,False,False
+Norms with Jordan Morris,160.0,2018-06-28,Norms,Fork rating,4.0,3.15,4.0,1,Jordan Morris,False,False
+Panda Express 2 with Cristela Alonzo,162.0,2018-07-12,Panda Express,Fork rating,4.0,4.0,3.0,1,Cristela Alonzo,False,False
+Mel's Drive-In with Jon Gabrus (LIVE),163.0,2018-07-19,Mel's Drive-In,Fork rating,2.5,4.0,3.0,1,Jon Gabrus,True,False
+Panera Bread with Bill Oakley,164.0,2018-07-26,Panera,Fork rating,2.5,3.25,2.75,1,Bill Oakley,False,False
+Souplantation/Sweet Tomatoes with Kelly Nugent and Lindsay Katai,165.0,2018-08-02,Souplantation/Sweet Tomatoes,Fork rating,3.75,2.75,3.25,2,Kelly Nugent; Lindsay Katai,False,False
+Pink's Hot Dogs with Alana Johnston,166.0,2018-08-09,Pink's Hot Dogs,Fork rating,2.125,2.25,2.0,1,Alana Johnston 🔪,False,False
+P. F. Chang's with Jessica McKenna and Zach Reino,168.0,2018-08-23,P. F. Chang's,Fork rating,3.5,3.5,3.125,2,Jessica McKenna; Zach Reino,False,False
+Johnny Rockets with Esther Povitsky,169.0,2018-08-30,Johnny Rockets,Fork rating,2.0,3.0,3.0,1,Esther Povitsky,False,False
+Wahoo's Fish Taco with Eliza Skinner,170.0,2018-09-06,Wahoo's Fish Taco,Fork rating,3.0,2.5,1.0,1,Eliza Skinner,False,False
+Outback Steakhouse 2 with Leann Bowen,171.0,2018-09-13,Outback Steakhouse,Fork rating,2.5,2.5,3.0,1,Leann Bowen,False,False
+Menchie's with Jackie Johnson,172.0,2018-09-20,Menchie's,Fork rating,4.0,4.0,4.0,1,Jackie Johnson,False,False
+Benihana with D'Arcy Carden,173.0,2018-09-27,Benihana,Fork rating,5.0,5.0,5.0,1,D'Arcy Carden,False,False
+Octdoughberblessed: Canter's Deli with Evan Susser and David Phillips,175.0,2018-10-11,Canter's Deli,Stars of David rating ✡️,3.5,3.75,3.25,2,Evan Susser; David Phillips,False,False
+Octdoughberblessed: Loving Hut with Raj Desai,176.0,2018-10-18,Loving Hut,Supreme Master Forks rating,4.0,4.0,4.0,1,Raj Desai,False,False
+Octdoughberblessed: Cracker Barrel with Betsy Sodaro,177.0,2018-10-25,Cracker Barrel,Ghost Ships with Halos rating,5.0,5.0,4.0,1,Betsy Sodaro,False,False
+Maggiano's Little Italy with Kevin Pollack,178.0,2018-11-01,Maggiano's Little Italy,Fork rating,3.5,3.5,3.125,2,Kevin Pollack; Jaime Fox,False,False
+Top Round Roast Beef with Ike Barinholtz,179.0,2018-11-08,Top Round Roast Beef,Fork rating,5.0,4.75,4.5,1,Ike Barinholtz,False,False
+El Torito with Jack Allison,180.0,2018-11-15,El Torito,Fork rating,4.0,4.0,5.0,1,Jack Allison,False,False
+Dairy Queen with Michael Cassady & Paul Rust,181.0,2018-11-29,Dairy Queen,Fork rating,4.0,4.0,3.875,2,Michael Cassady; Paul Rust,False,False
+Rubio's with Mary Holland (LIVE),182.0,2018-12-06,Rubio's,Fork rating,4.5,4.0,5.0,1,Mary Holland,True,False
+Papa John's with Lamar Woods,183.0,2018-12-13,Papa John's,Fork rating,1.0,2.0,2.5,1,Lamar Woods,False,False
+McDonald's with Sarah Silverman,184.0,2018-12-20,McDonald's,Fork rating,5.0,5.0,5.0,1,Sarah Silverman,False,False
+Poquito Más with Dan Goor,185.0,2019-01-10,Poquito Más,Fork rating,5.0,5.0,3.75,1,Dan Goor,False,False
+The Hat with Betsy Sodaro and Mano Agapion (LIVE),187.0,2019-01-24,The Hat,Fork rating,4.5,5.0,4.25,2,Betsy Sodaro; Mano Agapion,True,False
+Cheba Hut with Jon Gabrus (LIVE),188.0,2019-01-31,Cheba Hut,Fork rating,4.5,5.0,4.5,1,Jon Gabrus,True,False
+Super Duper Burgers with Eliza Skinner & Jordan Morris (LIVE),189.0,2019-02-07,Super Duper Burgers,Fork rating,3.25,3.25,2.25,2,Eliza Skinner; Jordan Morris,True,False
+Smoke's Poutinerie with Alana Johnston (LIVE),190.0,2019-02-14,Smoke's Poutinerie,Fork / Knife rating,4.0,4.25,4.0,1,Alana Johnston 🔪,True,False
+Little Caesars with John Ross Bowie,191.0,2019-02-21,Little Caesars,Fork rating,5.0,4.25,4.0,1,John Ross Bowie,False,False
+Native Foods with Tawny Newsome & Alex Kliner,192.0,2019-02-28,Native Foods,Fork rating,2.0,2.0,2.25,2,Tawny Newsome; Alex Kliner,False,False
+Sizzle Pie with Bill Oakley (LIVE),197.0,2019-04-04,Sizzle Pie,Fork rating,3.25,3.5,3.75,1,Bill Oakley,True,False
+Portillo's with Jon Gabrus & Christine Nangle (LIVE),198.0,2019-04-11,Portillo's,Fork rating,4.5,5.0,4.5,2,Jon Gabrus; Christine Nangle,True,False
+Lou Malnati's with Jon Gabrus & Christine Nangle (LIVE),199.0,2019-04-18,Lou Malnati's,Fork rating,4.0,5.0,3.5,2,Jon Gabrus; Christine Nangle,True,False
+Chili's Too with Eva Anderson,200.0,2019-04-25,Chili's Too,Fork rating,4.0,4.0,3.5,1,Eva Anderson,False,False
+AMC Dine-In with Kevin Pollak and Jaime Fox,201.0,2019-05-02,AMC Dine-In,Fork rating,2.5,4.0,3.5,2,Kevin Pollak; Jaime Fox,False,False
+Sweetfin Poké with Payman Benz,202.0,2019-05-09,Sweetfin Poké,Fork rating,4.0,4.0,5.0,1,Payman Benz,False,False
+Waffle House with Carl Tart (LIVE),203.0,2019-05-16,Waffle House,Fork rating,5.0,5.0,4.5,2,Carl Tart; Allan McLeod,True,False
+Hattie B's with Carl Tart (LIVE),204.0,2019-05-23,Hattie B's,Fork rating,4.0,5.0,4.0,1,Carl Tart,True,False
+P. F. Chang's 2 with Kulap Vilaysack,205.0,2019-05-30,P. F. Chang's,Fork rating,3.75,3.5,2.0,1,Kulap Vilaysack,False,False
+Fogo de Chão with Candice King & Kayla Ewell,206.0,2019-06-06,Fogo de Chão,Fork rating,3.0,3.25,3.0,2,Candice King; Kayla Ewell,False,False
+Ben & Jerry's with The Sloppy Boys,207.0,2019-06-13,Ben & Jerry's,Fork rating,3.0,4.0,3.333333333333333,3,Mike Hanford; Jeff Dutton; Tim Kalpakis,False,False
+Al's Beef with Megan Batoon & Amir Blumenfeld (LIVE),208.0,2019-06-20,Al's Beef,Fork rating,2.5,3.9,1.0,2,Megan Batoon; Amir Blumenfeld,True,False
+Which Wich? with Josh Gondelman,209.0,2019-06-27,Which Wich?,Fork rating,3.5,3.5,3.5,1,Josh Gondelman,False,False
+Starbucks Reserve with Jessica Chaffin,210.0,2019-07-04,Starbucks Reserve,Fork rating,1.0,2.0,0.5,1,Jessica Chaffin,False,False
+"Papa Gino's with John Hodgman, Jean Grae, and Jeff Tweedy",211.0,2019-07-11,Papa Gino's,Fork rating,3.5,4.0,2.1666666666666665,3,John Hodgman; Jean Grae; Jeff Tweedy,False,False
+Le Pain Quotidien with Johnny Pemberton,212.0,2019-07-18,Le Pain Quotidien,Fork rating,3.5,3.75,4.0,1,Johnny Pemberton,False,False
+Shaquille's with Josh Weiner,213.0,2019-07-25,Shaquille's,General Star rating ⭐,4.0,4.0,3.5,1,Josh Weiner,False,False
+Subway 2 with R.J. Fried,214.0,2019-08-01,Subway,Fork rating,3.0,3.25,3.5,1,R.J. Fried,False,False
+Del Taco 2 with Kevin Bartelt & Yusong Liu,215.0,2019-08-08,Del Taco,Fork rating,5.0,3.5,4.0,2,Kevin Bartelt; Yusong Liu,False,False
+Lee's Sandwiches with Ify Nwadiwe,216.0,2019-08-15,Lee's Sandwiches,Fork rating,4.0,3.75,5.0,1,Ify Nwadiwe,False,False
+Burger King 3 with Haley Mancini,217.0,2019-08-22,Burger King,Fork rating,3.5,3.5,4.0,1,Haley Mancini,False,False
+Popeyes Louisiana Kitchen 2 with Andrew Ti,218.0,2019-08-29,Popeyes,Fork rating,5.0,5.0,4.0,1,Andrew Ti,False,False
+Ben's Chili Bowl with Christine Nangle & Carl Tart (LIVE),219.0,2019-09-05,Ben's Chili Bowl,Fork/Spoon/Star rating,5.0,5.0,4.75,2,Christine Nangle; Carl Tart,True,False
+"CAVA with Jamelle Bouie, Carl Tart, and Libby Watson (LIVE)",220.0,2019-09-12,CAVA,Fork rating,3.5,3.75,3.25,2,Jamelle Bouie; Carl Tart,True,False
+Marie Callender's with Scott Aukerman,221.0,2019-09-19,Marie Callender's,Fork rating,3.25,3.25,5.0,1,Scott Aukerman,False,False
+Rita's Italian Ice with Carl Tart & Christine Nangle (LIVE),222.0,2019-09-26,Rita's Italian Ice,Phork rating,4.0,4.0,4.375,2,Carl Tart; Christine Nangle,True,False
+The Ate-TL: The Flying Biscuit Cafe with Steve Agee,223.0,2019-10-03,The Flying Biscuit Cafe,Fork rating,4.0,4.0,4.0,1,Steve Agee,False,False
+The Ate-TL: Moe's Southwest Grill with Mary Lynn Rajskub,224.0,2019-10-10,Moe's Southwest Grill,Fork rating,1.5,2.25,1.0,1,Mary Lynn Rajskub,False,False
+The Ate-TL: The Varsity with Joe Saunders,225.0,2019-10-17,The Varsity,Fork rating,4.5,4.0,5.0,1,Joe Saunders,False,False
+The Ate-TL: Krystal with Sam Richardson,226.0,2019-10-24,Krystal,Fork rating,3.0,2.75,2.5,1,Sam Richardson,False,False
+The Ate-TL: Cook Out with Jesse Farrar & Mike Hale,227.0,2019-10-31,Cook Out,Fork rating,5.0,4.75,4.5,2,Jesse Farrar; Mike Hale,False,False
+"White Castle with Mike Hanford, Paul Rust, and Fran Gillespie (LIVE)",228.0,2019-11-07,White Castle,Fork rating,3.0,3.5,2.6666666666666665,3,Mike Hanford; Fran Gillespie; Paul Rust,True,False
+Regina Pizzeria with John Hodgman & Nicole Byer (LIVE),229.0,2019-11-14,Regina Pizzeria,Fork rating,5.0,5.0,7.5,2,John Hodgman; Nicole Byer,True,True
+99 Restaurant with Nicole Byer & Dano (LIVE),230.0,2019-11-21,99 Restaurant,Fork rating,3.0,3.0,1.25,2,Dano; Nicole Byer,True,False
+Noah's New York Bagels with Jennie Pierson,231.0,2019-12-05,Noah's New York Bagels,Fork rating,3.0,3.0,2.5,1,Jennie Pierson,False,False
+Ample Hills Creamery with Jason Sheridan,232.0,2019-12-12,Ample Hills Creamery,Spoon rating,5.0,4.0,4.5,1,Jason Sheridan,False,False
+Steak 'n Shake 4 with Evan Susser,233.0,2019-12-19,Steak 'n Shake,Fork rating,3.75,3.75,3.75,1,Evan Susser,False,False
+Harold's Chicken Shack with Jacquis Neal,234.0,2020-01-16,Harold's Chicken Shack,Fork rating,4.5,4.5,5.0,1,Jacquis Neal,False,False
+Culver's with Carl Tart,235.0,2020-01-23,Culver's,Fork rating,5.0,5.0,5.0,1,Carl Tart,False,False
+Swensons with Carl Tart,236.0,2020-01-30,Swensons,Fork rating,5.0,5.0,5.0,1,Carl Tart,False,False
+Boudin Bakery with The Sloppy Boys,237.0,2020-02-06,Boudin Bakery,Fork rating,1.5,2.0,2.6666666666666665,3,Jefferson Dutton; Mike Hanford; Tim Kalpakis,False,False
+Ezell's with Toni Charline Ramos,238.0,2020-02-13,Ezell's,Fork rating,5.0,4.0,4.17,1,Toni Charline,False,False
+The Habit with Emmy Blotnick,239.0,2020-02-20,The Habit,Fork rating,3.0,3.5,3.0,1,Emmy Blotnick,False,False
+A&W Canada with Jessica McKenna and Zach Reino (LIVE),240.0,2020-02-27,A&W Canada,Fork rating,5.0,5.0,5.0,2,Jessica McKenna; Zach Reino,True,False
+Crown Burgers with Betsy Sodaro (Live),245.0,2020-04-02,Crown Burgers,Fork rating,4.0,4.0,4.5,1,Betsy Sodaro,True,False
+Good Times Burgers with Betsy Sodaro (Live),246.0,2020-04-09,Good Times Burgers,Fork rating,4.5,5.0,5.0,1,Betsy Sodaro,True,False
+Honeybaked Ham with Kevin T. Porter,247.0,2020-04-16,Honeybaked Ham,Fork rating,4.0,3.75,4.0,1,Kevin T. Porter,False,False
+Pizza Hut 2 with Jen D'Angelo,248.0,2020-04-23,Pizza Hut,Fork rating,3.0,2.25,1.0,1,Jen D'Angelo,False,False
+Chipotle 3 with Alan Aisenberg and Mike Castle,249.0,2020-04-30,Chipotle,Fork rating,3.25,2.9,3.25,2,Alan Aisenberg; Mike Castle,False,False
+Tombstone (the pizza) with Blank Check,250.0,2020-05-07,Tombstone (the pizza),Fork rating,4.0,4.0,4.625,2,David Sims; Griffin Newman,False,False
+Topical Freeze: Tina's Burritos with Jamelle Bouie,251.0,2020-05-14,Tina's Burritos,Fork rating,2.75,4.0,2.5,1,Jamelle Bouie,False,False
+Topical Freeze: Ore-Ida with Jason Mantzoukas,252.0,2020-05-21,Ore-Ida,Fork rating,3.0,4.0,2.5,1,Jason Mantzoukas,False,False
+Topical Freeze: Marie Callender's Meals with Cat Solen,253.0,2020-05-28,Marie Callender's Meals,Fork rating,2.88,3.0,2.5,1,Cat Solen,False,False
+Chili's 2 with Joey Janela,255.0,2020-06-11,Chili's,Fork rating,3.0,3.0,3.0,1,Joey Janela,False,False
+Marco's Pizza with Jon Daly,256.0,2020-06-18,Marco's Pizza,Fork rating,3.0,4.0,2.75,1,Jon Daly,False,False
+Dog Haus with Dani Fernandez,257.0,2020-06-25,Dog Haus,Fork rating,4.0,4.5,4.0,1,Dani Fernandez,False,False
+Kroger with Dave King and Esther Povitsky,262.0,2020-07-30,Kroger,Cart rating 🛒,4.0,2.5,3.0,2,Dave King; Esther Povitsky,False,False
+Wendy's Breakfast with The Sloppy Boys,263.0,2020-08-06,Wendy's Breakfast,Fork rating,4.0,4.0,2.6666666666666665,3,Mike Hanford; Tim Kalpakis; Jefferson Dutton,False,False
+Bonchon Chicken with Ed Zitron,264.0,2020-08-13,Bonchon Chicken,Fork rating,5.0,6.0,5.0,1,Ed Zitron,False,True
+Buffalo Wild Wings 2 with Leslie Lee III,265.0,2020-08-20,Buffalo Wild Wings,Fork rating,3.0,3.5,2.5,1,Leslie Lee III,False,False
+Mooby's with Eva Anderson,266.0,2020-08-27,Mooby's,Fork rating,0.5,1.0,,0,,False,False
+Potbelly Sandwich Shop with Colt Cabana,267.0,2020-09-03,Potbelly Sandwich Shop,Fork rating,4.0,4.0,3.5,1,Colt Cabana,False,False
+Blaze Pizza with Eliza Skinner,268.0,2020-09-10,Blaze Pizza,Fork rating,2.5,2.0,2.0,1,Eliza Skinner,False,False
+In-N-Out Burger 3 with Rob Lowe,269.0,2020-09-17,In-N-Out Burger,Fork rating,5.0,5.0,5.0,1,Rob Lowe,False,False
+The Cheesecake Factory 2 with Arden Myrin,270.0,2020-09-24,The Cheesecake Factory,Fork rating,5.0,5.0,5.0,1,Arden Myrin,False,False
+IHOP 4 with Dan Ahdoot,271.0,2020-10-01,IHOP,Fork rating,2.5,3.0,2.0,1,Dan Ahdoot,False,False
+Ampm with Sierra Katow,272.0,2020-10-08,Ampm,Fork rating,3.25,3.0,3.5,1,Sierra Katow,False,False
+Denny's 3 with Shaun Diston,273.0,2020-10-15,Denny's,Fork rating,3.25,3.25,3.25,1,Shaun Diston,False,False
+7-Eleven 2 with Jason Woliner,274.0,2020-10-22,7-Eleven,Fork rating,2.5,3.0,2.0,1,Jason Woliner,False,False
+Dunkin' 2 with Mookie Blaiklock,275.0,2020-10-29,Dunkin',Fork rating,4.0,5.0,4.0,1,Mookie Blaiklock,False,False
+Boston Market 2 with Dewayne Perkins,277.0,2020-11-12,Boston Market,Fork rating,3.0,3.5,4.0,1,Dewayne Perkins,False,False
+Burger King 4 with Don't Stop or We'll Die,278.0,2020-11-19,Burger King,Fork rating,4.0,4.0,3.875,2,Paul Rust; Michael Cassady,False,False
+Peet's Coffee with Chelsea Peretti,279.0,2020-12-03,Peet's Coffee,Fork rating,3.0,2.75,3.5,1,Chelsea Peretti,False,False
+Panera Bread 2 with Monica Ruiz and Chris O'Malley,282.0,2021-01-07,Panera,Fork rating,4.0,3.9,4.0,2,Monica Ruiz; Chris O'Malley,False,False
+Jersey Mike's 2 with Jon Daly,283.0,2021-01-14,Jersey Mike's,Ookie Fork rating,4.5,4.0,4.0,1,Jon Daly,False,False
+Popeyes Louisiana Kitchen 3 with Phil Rosenthal,284.0,2021-01-21,Popeyes,Fork rating,5.0,5.0,3.5,1,Phil Rosenthal,False,False
+Subway 3 with Sean Clements & Hayes Davenport,285.0,2021-01-28,Subway,Fork rating,2.5,3.25,3.25,2,Sean Clements; Hayes Davenport,False,False
+Panda Express 3 with Oscar Montoya,286.0,2021-02-04,Panda Express,Fork rating,3.75,4.0,3.5,1,Oscar Montoya,False,False
+Five Guys 2 with Andy Daly,287.0,2021-02-11,Five Guys,Fork rating,3.5,3.5,1.0,1,Andy Daly,False,False
+Papa John's 2 with Raiza Licea,288.0,2021-02-18,Papa John's,Tenedores rating,3.0,3.0,3.0,1,Raiza Licea,False,False
+KFC 2 with Lauren Ash and Christy Oxborrow,289.0,2021-02-25,KFC,Fork rating,2.0,2.0,2.25,2,Lauren Ash; Christy Oxborrow,False,False
+Wendy's 2 with Jacob Wysocki,294.0,2021-04-01,Wendy's,Fork rating,4.75,4.75,4.75,1,Jacob Wysocki,False,False
+Outback Steakhouse 3 with Joe Wengert,295.0,2021-04-08,Outback Steakhouse,Fork rating,1.5,2.5,2.0,1,Joe Wengert,False,False
+MrBeast Burger with Jason Concepcion,297.0,2021-04-22,MrBeast Burger,Fork rating,2.5,2.0,2.0,1,Jason Concepcion,False,False
+Olive Garden 3 with Alison Rosen,298.0,2021-04-29,Olive Garden,Fork rating,3.5,4.0,2.0,1,Alison Rosen,True,False
+Cosmic Wings with Jana Schmieding,299.0,2021-05-06,Cosmic Wings,Fork rating,1.5,1.5,2.0,1,Jana Schmieding,False,False
+Guy Fieri's Flavortown Kitchen with Eva Anderson,300.0,2021-05-13,Guy Fieri's Flavortown Kitchen,Fork rating,2.0,3.4,4.0,1,Eva Anderson,False,False
+Yard House 2 with Dave Schilling,301.0,2021-05-20,Yard House,Fork rating,3.0,4.5,3.5,1,Dave Schilling,False,False
+Taco Bell 5 with Christine Nangle & Carl Tart (Live),302.0,2021-05-27,Taco Bell,Fork rating,5.0,5.0,4.75,1,Carl Tart,True,False
+Auntie Anne's with Mary Lynn Rajskub,303.0,2021-06-03,Auntie Anne's,Fork rating,4.0,4.0,4.0,1,Mary Lynn Rajskub,False,False
+Arby's 3 with Larry Fong,304.0,2021-06-10,Arby's,Fork rating,4.0,4.0,3.5,1,Larry Fong,False,False
+Taco Bell 7 with Lorne Balfe,305.0,2021-06-17,Taco Bell,Fork rating,5.0,5.0,,0,,False,False
+Fresh Brothers with Chris McKay & Samantha Nisenboim,306.0,2021-06-24,Fresh Brothers,Fork rating,4.0,3.5,3.375,2,Chris McKay; Samantha Nisenboim,False,False
+Burger King 5 with Sam Richardson,307.0,2021-07-01,Burger King,Fork rating,4.5,4.5,4.5,1,Sam Richardson,False,False
+Golden Road Brewing with Jordan Morris,308.0,2021-07-08,Golden Road Brewing,Fork rating,4.0,4.0,4.0,1,Jordan Morris,False,False
+"Taco Bell 6 with John Hodgman, Paul F. Tompkins, and Arden Myrin (live)",309.0,2021-07-15,Taco Bell,Fork rating,5.0,5.0,3.333333333333333,3,John Hodgman; Paul F. Tompkins; Arden Myrin,True,False
+Coca-Cola Freestyle with Chris Gethard,310.0,2021-07-22,Coca-Cola Freestyle,Fork rating,3.0,2.5,2.5,1,Chris Gethard,False,False
+Wahlburgers with Eliza Hooper,311.0,2021-07-29,Wahlburgers,Fork rating,3.25,4.0,2.5,1,Eliza Hooper,False,False
+Checkers and Rally's 2 with Tom Scharpling,312.0,2021-08-05,Checkers and Rally's,Fork rating,1.75,1.75,1.0,1,Tom Scharpling,False,False
+Mendocino Farms with Avital Ash,313.0,2021-08-12,Mendocino Farms,Fork rating,4.5,4.5,4.0,1,Avital Ash,False,False
+Shake Shack 2 with Libby Watson,314.0,2021-08-19,Shake Shack,Fork rating,3.0,4.0,3.75,1,Libby Watson,False,False
+Einstein Bros. Bagels with Tony Rodríguez,315.0,2021-08-26,Einstein Bros. Bagels,Fork rating,3.0,4.0,,0,,False,False
+MOD Pizza with Cody Ziglar,316.0,2021-09-02,MOD Pizza,Fork rating,2.5,2.5,2.5,1,"Cody ""The Checkout King"" Ziglar",False,False
+Little Caesars 2 with Marisa Pinson and David Neher,317.0,2021-09-09,Little Caesars,Fork rating,4.5,3.25,3.0,1,"Dave ""The Wave"" Neher",False,False
+Winchell's Donut House with Mike Horowitz,318.0,2021-09-16,Winchell's Donut House,Fork rating,3.75,3.75,3.75,1,Mike Horowitz,False,False
+Charleys Philly Steaks with Derek Waters,319.0,2021-09-23,Charleys Philly Steaks,Fork rating,3.0,3.25,2.0,1,Derek Waters,False,False
+Insomnia Cookies with Mary Sohn,320.0,2021-09-30,Insomnia Cookies,Fork rating,4.5,4.5,5.0,1,Mary Sohn,False,False
+Sonic Drive-In with Matt Apodaca,321.0,2021-10-07,Sonic Drive-In,Fork rating,5.0,5.0,5.0,1,Matt Apodaca,False,False
+Costco 2 with Excalibur,322.0,2021-10-14,Costco,Fork rating,5.0,3.75,3.5,1,Excalibur,False,False
+AMC Theatres with Adam Gertler,323.0,2021-10-21,AMC Theatres,Fork rating,4.0,4.0,4.0,1,Adam Gertler,False,False
+"Nathan's Famous with Jon Gabrus, Mike Hanford & Griffin Newman (live)",324.0,2021-10-28,Nathan's Famous,Fork rating,3.0,2.5,3.5,3,Jon Gabrus; Mike Hanford; Griffin Newman,True,False
+800 Degrees with Betsy Sodaro,325.0,2021-11-04,800 Degrees,Fork rating,4.25,4.5,4.0,1,Betsy Sodaro,False,False
+Kreation Organic with Jackie Johnson,326.0,2021-11-11,Kreation Organic,Fork rating,3.0,2.0,3.0,1,"Jackie ""The Jackster"" Johnson",False,False
+The Capital Grille with Negin Farsad,327.0,2021-11-18,The Capital Grille,Fork rating,4.5,5.0,4.5,1,Negin Farsad,False,False
+Umami Burger 3 with Judd Apatow,328.0,2021-12-02,Umami Burger,Fork rating,3.75,3.75,4.5,1,Judd Apatow,False,False
+McPlant with Eric Edelstein,329.0,2021-12-09,McPlant,Fork rating,4.0,4.0,,0,,False,False
+Monty's Good Burger with Evan Susser,330.0,2021-12-16,Monty's Good Burger,Fork rating,5.0,5.0,3.75,1,Evan Susser,False,False
+Lemonade with Jessica McKenna,331.0,2022-01-06,Lemonade,Fork rating,3.5,3.75,3.5,1,Jessica McKenna,False,False
+QDOBA with Jamelle Bouie,332.0,2022-01-13,QDOBA,Fork rating,3.0,2.9,3.5,1,Jamelle Bouie,False,False
+Thighstop with Jon Gabrus,333.0,2022-01-20,Thighstop,Fork rating,4.0,4.0,3.5,1,Jon Gabrus,False,False
+Sweet Chick with Tami Sagher,334.0,2022-01-27,Sweet Chick,Fork rating,4.5,4.5,4.5,1,Tami Sagher,False,False
+KFC Beyond with Mike Sacks,335.0,2022-02-03,KFC Beyond,Fork rating,4.0,3.5,3.5,1,Mike Sacks,False,False
+Din Tai Fung with Farley Elliott,337.0,2022-02-17,Din Tai Fung,Fork rating,5.0,6.0,5.0,1,Farley Elliott,False,True
+Tyga Bites with John Hodgman & David Rees,338.0,2022-02-24,Tyga Bites,Fork rating,0.12,0.75,0.125,2,John Hodgman; David Rees,False,False
+Veggie Grill with Mary Sasson,344.0,2022-04-07,Veggie Grill,Fork rating,4.0,4.5,3.5,1,Mary Sasson,False,False
+True Food Kitchen with Claudia O'Doherty,345.0,2022-04-14,True Food Kitchen,Fork rating,3.0,2.75,2.5,1,Claudia O'Doherty,False,False
+Popeyes 4 with Van Robichaux,346.0,2022-04-21,Popeyes,Fork rating,5.0,5.0,4.5,2,"Van Robichaux; James, the Tech Guy",False,False
+Bojangles with Jesse Farrar and Mike Hale (live),347.0,2022-04-28,Bojangles,Fork rating,4.0,4.0,4.5,2,Jesse Farrar; Mike Hale,True,False
+Cornish Pasty with Jon Gabrus (live),348.0,2022-05-05,Cornish Pasty,Fork rating,5.0,5.0,4.5,1,Jon Gabrus,True,False
+Burgerville with Jordan Morris and Bill Oakley (live),349.0,2022-05-12,Burgerville,Fork rating,4.0,4.0,4.0,2,Jordan Morris; Bill Oakley,True,False
+D'Angelo with Jon Gabrus and Carl Tart (live),350.0,2022-05-19,D'Angelo,Fork rating,4.5,5.0,4.695,2,Jon Gabrus; Carl Tart,True,False
+Kelly's Roast Beef with Jon Gabrus and Carl Tart (live),351.0,2022-05-26,Kelly's Roast Beef,Fork rating,3.5,5.0,3.31,2,Jon Gabrus; Carl Tart,True,False
+Bertucci's with Jon Gabrus and Carl Tart (live),352.0,2022-06-02,Bertucci's,Fork rating,2.5,5.0,3.125,2,Jon Gabrus; Carl Tart,True,False
+Dave's Hot Chicken with Joe Randazzo,353.0,2022-06-09,Dave's Hot Chicken,Fork rating,4.25,4.0,4.0,1,Joe Randazzo,False,False
+El Farolito with Mookie Blaiklock (live),354.0,2022-06-16,El Farolito,Fork rating,5.0,5.0,5.0,1,Mookie Blaiklock,True,False
+Ivar's Acres of Clams with Mookie Blaiklock (live),355.0,2022-06-23,Ivar's Acres of Clams,Fork rating,1.5,2.0,2.0,1,Mookie Blaiklock,True,False
+Dough Zone with Mookie Blaiklock (live),356.0,2022-06-30,Dough Zone,Fork rating,5.0,5.0,5.0,1,Mookie Blaiklock,True,False
+Raising Cane's Chicken Fingers 2 with John Early,357.0,2022-07-07,Raising Cane's Chicken Fingers,Fork rating,4.0,5.0,3.0,1,John Early,False,False
+Burger King 6 with Jon Gabrus & Adam Pally,358.0,2022-07-14,Burger King,Fork rating,4.0,3.5,1.5,2,Jon Gabrus; Adam Pally,False,False
+Pizza Hut 3 with Brendan James,360.0,2022-07-28,Pizza Hut,Fork rating,1.5,2.0,1.5,1,Brendan James,False,False
+Nothing Bundt Cakes with Becky Feldman,361.0,2022-08-04,Nothing Bundt Cakes,Fork rating,4.0,3.75,4.0,1,Becky Feldman,False,False
+Sweetgreen 2 with Emmy Blotnick,362.0,2022-08-11,Sweetgreen,Fork rating,4.5,3.75,3.5,1,Emmy Blotnick,False,False
+Kopp's Frozen Custard with Marisa Pinson (live),363.0,2022-08-18,Kopp's Frozen Custard,Fork rating,4.5,4.5,4.5,1,Marisa Pinson,True,False
+Buddy's Detroit-Style Pizza with Marisa Pinson (live),364.0,2022-08-25,Buddy's Detroit-Style Pizza,Fork rating,5.0,5.0,4.5,1,Marisa Pinson,True,False
+Cold Stone Nintendo with Heather Anne Campbell and Matt Apodaca,365.0,2022-09-01,Cold Stone Nintendo,Spoon rating 🥄,1.0,1.5,1.5,2,Heather Anne Campbell; Matt Apodaca,False,False
+Hot Dog On A Stick with Paul F. Tompkins,366.0,2022-09-08,Hot Dog On A Stick,Fork rating,4.0,4.0,4.0,1,Paul F. Tompkins,False,False
+Pressed with Arden Myrin,367.0,2022-09-15,Pressed,Fork rating,4.0,4.0,5.0,1,Arden Myrin,False,False
+Fat Sal's with Matt Christman,368.0,2022-09-22,Fat Sal's,Fork rating,2.5,3.0,2.0,1,Matt Christman,False,False
+Fazoli's with Mitra Jouhari,369.0,2022-09-29,Fazoli's,Fork rating,4.0,4.0,4.0,1,Mitra Jouhari,False,False
+The Butcher's Daughter with Zach Cherry,374.0,2022-11-03,The Butcher's Daughter,Fork rating,4.5,4.5,4.25,1,Zach Cherry,False,False
+Subway Breakfast with Lily Sullivan,375.0,2022-11-10,Subway Breakfast,Fork rating,2.25,4.25,1.0,1,Lily Sullivan,False,False
+Eataly with Griffin Newman and David Sims,376.0,2022-11-17,Eataly,Fork rating,4.0,5.0,4.25,2,Griffin Newman; David Sims,False,False
+Krispy Kreme 2 with Sam Sanders,377.0,2022-12-01,Krispy Kreme,Fork rating,4.25,4.0,6.0,1,Sam Sanders,False,True
+85°C Bakery Cafe with Lauren McGuire,378.0,2022-12-08,85°C Bakery Cafe,Fork rating,3.0,2.5,2.5,1,Lauren McGuire,False,False
+Shake Shack 3 with Evan Susser,379.0,2022-12-15,Shake Shack,Fork rating,3.0,4.0,4.0,1,Evan Susser,False,False
+SushiStop with Alie Ward,380.0,2023-01-12,SushiStop,Fork rating,3.0,3.0,3.5,1,Alie Ward,False,False
+MIXT with Ryan Perez,381.0,2023-01-19,MIXT,Fork rating,3.0,2.5,2.5,1,Ryan Perez,False,False
+Jack in the Box 2 with Don't Stop or We'll Die,382.0,2023-01-26,Jack in the Box,Fork rating,4.0,4.0,3.625,2,Paul Rust; Michael Cassady,False,False
+Corner Bakery with Marques Ray,383.0,2023-02-02,Corner Bakery,Fork rating,4.0,3.5,4.5,1,Marques Ray,False,False
+Jeni's Splendid Ice Creams with Lilan Bowden,384.0,2023-02-09,Jeni's Splendid Ice Creams,Fork rating,5.0,5.0,5.0,1,Lilan Bowden,False,False
+Spitz with John Hodgman,386.0,2023-02-23,Spitz,Fork rating,4.0,4.25,4.0,1,John Hodgman,False,False
+Honeybee Burger with Mort Burke,392.0,2023-04-06,Honeybee Burger,Mort rating,4.0,4.0,,0,,False,False
+Two Hands Corn Dogs with Jamie Loftus,393.0,2023-04-13,Two Hands Corn Dogs,Fork rating,3.0,3.0,3.0,1,Jamie Loftus,False,False
+Crumbl Cookies with Mary Jane Gibson and Mike Glazer,394.0,2023-04-20,Crumbl Cookies,Blunt rating,3.5,3.5,3.5,2,Mary Jane Gibson; Mike Glazer,False,False
+Orange Julius with Scott Aukerman,395.0,2023-04-27,Orange Julius,Fork rating,4.0,4.0,4.5,1,Scott Aukerman,False,False
+Erewhon with Dan Lippert and Ryan Rosenberg,396.0,2023-05-04,Erewhon,Fork rating,3.0,2.5,2.0,2,Dan Lippert; Ryan Rosenberg,False,False
+Kura with Jesse Farrar and Mike Hale,397.0,2023-05-11,Kura,Fork rating,4.0,4.0,4.75,2,Jesse Farrar; Mike Hale,False,False
+Fatburger 2 with Andrea Jin,398.0,2023-05-18,Fatburger,Fork rating,4.5,4.25,4.00000001,1,Andrea Jin,False,False
+Good Humor with Evan Susser,400.0,2023-06-01,Good Humor,Fork rating,5.0,5.0,5.0,1,Evan Susser,False,False
+Jollibee 2 with John Early and Claudia O'Doherty,401.0,2023-06-08,Jollibee,Fork rating,4.0,5.0,4.375,2,John Early; Claudia O'Doherty,False,False
+KazuNori with Joanna Calo,402.0,2023-06-15,KazuNori,Fork rating,4.25,4.25,4.5,1,Joanna Calo,False,False
+Ledo Pizza with Jamelle Bouie & Tami Sagher,403.0,2023-06-22,Ledo Pizza,Fork rating,3.0,4.0,2.5,2,Jamelle Bouie; Tami Sagher,False,False
+"Gray's Papaya with Zach Cherry, Mike Hanford, & Tami Sagher",404.0,2023-06-29,Gray's Papaya,Fork rating,4.5,5.0,4.416666666666667,3,Zach Cherry; Mike Hanford; Tami Sagher,False,False
+"Tasty Burger with Mookie Blaiklock, Zach Cherry, & Mike Hanford",405.0,2023-07-06,Tasty Burger,Fork rating,4.0,5.0,3.375,2,Zach Cherry; Mike Hanford,False,False
+Taco John's with Carl Tart,406.0,2023-07-13,Taco John's,Fork rating,2.5,3.25,2.8,1,Carl Tart,False,False
+HomeState with Stephanie Beatriz,408.0,2023-07-27,HomeState,Fork rating,5.0,5.0,5.0,1,Stephanie Beatriz,False,False
+Do-Rite Donuts with Carl Tart,409.0,2023-08-03,Do-Rite Donuts,Fork rating,5.0,5.0,4.75,1,Carl Tart,False,False
+Rick's Drive In & Out with Ashley Ray,410.0,2023-08-10,Rick's Drive In & Out,Fork rating,4.0,4.0,4.0,1,Ashley Ray,False,False
+Howlin' Rays with Kumail Nanjiani,411.0,2023-08-17,Howlin' Rays,Fork rating,5.0,5.0,4.0,1,Kumail Nanjiani,False,False
+Sombrero with Neil Campbell and Fran Gillespie,412.0,2023-08-24,Sombrero,Fork rating,3.0,4.0,3.25,2,Neil Campbell; Fran Gillespie,False,False
+Qwench Juice Bar with Eliza Skinner,413.0,2023-08-31,Qwench Juice Bar,Fork rating,4.5,3.75,4.5,1,Eliza Skinner,False,False
+Pollo Campero with Jack Allison and Kate Shapiro,414.0,2023-09-07,Pollo Campero,Fork rating,4.5,5.0,4.25,2,Jack Allison; Kate Shapiro,False,False
+Sidecar Doughnuts with David Wain,415.0,2023-09-14,Sidecar Doughnuts,Fork rating,3.0,2.75,3.1,1,David Wain,False,False
+Guisados with Lamar Woods,416.0,2023-09-21,Guisados,Fork rating,6.0,6.0,4.0,1,Lamar Woods,False,True
+Hungry Howies with Joe Kwaczala,417.0,2023-09-27,Hungry Howies,Fork rating,2.5,2.25,3.375,2,Joe Kwaczala; Becky Feldman,False,False
+Voodoo Doughnut with Oscar Montoya,418.0,2023-10-05,Voodoo Doughnut,Pitchfork rating 🔱,3.0,3.5,3.5,2,Oscar Montoya; Amelia Marino,False,False
+Zankou Chicken with Jason Mantzoukas,419.0,2023-10-12,Zankou Chicken,Pitchfork rating 🔱,5.0,6.0,4.5,1,Jason Mantzoukas,False,True
+Lucifers Pizza with Eva Anderson,420.0,2023-10-19,Lucifers Pizza,Pitchfork rating 🔱,3.0,3.75,3.0,1,Bart Anderson,False,False
+Boo's Philly Cheesesteaks with Don't Stop or We'll Die,421.0,2023-10-26,Boo's Philly Cheesesteaks,Pitchfork rating 🔱,3.5,3.25,3.875,2,Dave Thomas Rust; Dave Thomas Cassady,False,False
+Big Chicken with Dan Black,422.0,2023-11-02,Big Chicken,Fork rating,1.0,1.0,0.5,1,Dan Black,False,False
+Black Angus Steakhouse with Tim Heidecker,423.0,2023-11-09,Black Angus Steakhouse,Fork rating,2.75,2.25,2.0,1,Tim Heidecker,False,False
+Milk Bar with Lisa Gilroy,424.0,2023-11-16,Milk Bar,Fork rating,3.0,3.0,3.0,1,Lisa Gilroy,False,False
+Robeks with Ben Rodgers,425.0,2023-11-30,Robeks,Fork rating,3.5,3.5,3.0,1,Ben Rodgers,False,False
+Salt & Straw with Neil Campbell and Andy Samberg,426.0,2023-12-07,Salt & Straw,Spoon rating 🥄,4.0,4.5,4.75,2,Neil Campbell; Andy Samberg,False,False
+The Musso & Frank Grill with Evan Susser,427.0,2023-12-14,The Musso & Frank Grill,Fork rating,5.0,6.0,5.0,1,Evan Susser,False,True
+Chop Stop with Tim Baltz,428.0,2024-01-11,Chop Stop,Fork rating,2.0,1.5,1.0,1,Tim Baltz,False,False
+Nick the Greek with Becky Feldman,429.0,2024-01-18,Nick the Greek,Fork rating,3.0,3.25,2.5,1,Becky Feldman,False,False
+Del Taco 3 with Libby Watson,430.0,2024-01-25,Del Taco,Fork rating,5.0,4.0,4.0,1,Libby Watson,False,False
+Goop Kitchen with Luke Del Tredici,431.0,2024-02-01,Goop Kitchen,Fork rating,4.0,4.0,4.5,1,Luke Del Tredici,False,False
+Eggslut with Raiza Licea,432.0,2024-02-08,Eggslut,Fork rating,4.0,3.5,,0,,False,False
+See's Candies with John Hodgman,433.0,2024-02-15,See's Candies,Fork rating,3.0,3.0,3.0,1,John Hodgman,False,False
+Whole Foods 2 with Emily Yoshida,434.0,2024-02-22,Whole Foods,Fork rating,1.5,1.5,2.0,1,Emily Yoshida,False,False
+Subway 4 with Andre Hyland,435.0,2024-02-29,Subway,Fork rating,1.5,2.25,,0,,False,False
+Oakberry with Johnny TV and Taya Valkyrie,440.0,2024-04-04,Oakberry,Spoon rating,1.5,2.0,2.0,1,Johnny Doughboy,False,False
+Buffalo Wild Wings 3 with Johnny Pemberton,441.0,2024-04-11,Buffalo Wild Wings,Fork rating,3.5,4.0,3.5,1,Johnny Pemberton,False,False
+Mr. Charlie's Told Me So with Jackie Johnson,442.0,2024-04-18,Mr. Charlie's Told Me So,Fork rating,4.0,4.0,4.0,1,Jackie Johnson,False,False
+California Pizza Kitchen 2 with Avital Ash,443.0,2024-04-25,California Pizza Kitchen,Fork rating,4.0,4.0,4.0,1,Avital Ash,False,False
+Irv's Burgers with Sam Brown,445.0,2024-05-09,Irv's Burgers,Fork rating,5.0,4.0,4.0,1,Sam Brown,False,False
+Jimmy John's 2 with Mary Sohn,446.0,2024-05-16,Jimmy John's,Fork rating,4.0,3.5,4.5,1,Mary Sohn,False,False
+Poké Bar with Payman Benz,447.0,2024-05-23,Poké Bar,Fork rating,2.5,2.5,3.0,1,Payman Benz,False,False
+IHOP 6: Sonic Menu with Bryan Quinby,448.0,2024-05-30,Sonic Menu,Fork rating,4.0,4.0,2.0,1,Bryan Quinby,False,False
+Sbarro with Griffin Newman,449.0,2024-06-06,Sbarro,Fork rating,3.0,3.5,3.0,1,Griffin Newman,False,False
+Bowlero with Allan McLeod,451.0,2024-06-20,Bowlero,Fork rating,3.0,3.5,3.5,1,Allan McLeod aka Molasses Boy,False,False
+Silverlake Ramen with Sierra Katow,452.0,2024-06-27,Silverlake Ramen,Fork rating,4.0,4.0,4.0,1,Sierra Katow,False,False
+Nordstrom's Bar Verde with Jordan Morris,454.0,2024-07-11,Nordstrom's Bar Verde,Fork rating,4.0,4.0,3.0,1,Jordan Morris,False,False
+Willie Mae's Scotch House with Matt Selman,455.0,2024-07-18,Willie Mae's Scotch House,Fork rating,5.0,5.0,5.0,1,"""Fried Chicken Matt"" Selman",False,False
+Bb.q chicken with Tansu Philip,456.0,2024-07-25,Bb.q chicken,Fork rating,5.0,5.0,4.5,1,Tansu Philip,False,False
+Broccoli with Lindsay Katai and Kelly Nugent,457.0,2024-08-01,Broccoli,Salad Fork rating 🥗,4.0,3.0,3.5,2,Lindsay Katai; Kelly Nugent,False,False
+Endives with Jess Rona,458.0,2024-08-08,Endives,Salad Fork rating 🥗,4.0,4.0,5.0,1,Jess Rona,False,False
+Onions with Arden Myrin,459.0,2024-08-15,Onions,Salad Fork rating 🥗,5.0,5.0,5.0,1,Arden Myrin,False,False
+Sweet Potatoes with Dani Fernandez,460.0,2024-08-22,Sweet Potatoes,Salad Fork rating 🥗,5.0,4.0,5.0,1,Dani Fernandez,False,False
+Carrots with Jon Glover and Marisa Pinson,461.0,2024-08-29,Carrots,Salad Fork rating 🥗,3.0,4.0,3.75,2,Jon Glover; Marisa Pinson,False,False
+Popeyes Wings with David Brown and Jon Mackey,462.0,2024-09-05,Popeyes Wings,Fork rating,5.0,4.5,4.5,2,David Brown; Jon Mackey,False,False
+Ameci Pizza and Pasta with Gilli Nissim,463.0,2024-09-12,Ameci Pizza and Pasta,Fork rating,2.5,3.5,3.0,1,Gilli Nissim,False,False
+Alamo Drafthouse with Drew McWeeny,464.0,2024-09-19,Alamo Drafthouse,Fork rating,4.0,4.0,4.0,1,Drew McWeeny,False,False
+Backyard Bowls with Erin Keif,465.0,2024-09-26,Backyard Bowls,Fork rating,3.5,3.5,3.8,1,Erin Keif,False,False
+Tim Hortons with Stephanie Beatriz and Alana Johnston,466.0,2024-10-03,Tim Hortons,Fork rating,2.5,5.0,2.0,1,Stephanie Beatriz,False,False
+Harvey's with Shaun Diston,467.0,2024-10-10,Harvey's,Fork rating,3.5,3.5,4.0,1,Shaun Diston,False,False
+Swiss Chalet with Alana Johnston,468.0,2024-10-17,Swiss Chalet,Fork rating,4.5,4.5,4.5,1,Alana Johnston 🔪,False,False
+Boston Pizza with Samoa Joe,469.0,2024-10-24,Boston Pizza,Fork rating,3.0,3.0,3.0,1,Samoa Joe,False,False
+McDonald's Canada with Mike Hanford,470.0,2024-10-31,McDonald's Canada,Fork rating,5.0,5.0,5.0,1,Mike Hanford,False,False
+Blue Bottle with Kate Berlant,471.0,2024-11-07,Blue Bottle,Fork rating,3.0,3.0,3.5,1,Kate Berlant,False,False
+Krusty Burger with Henry Gilbert and Bob Mackey,472.0,2024-11-14,Krusty Burger,Fork rating,3.0,4.0,3.0,2,Henry Gilbert; Bob Mackey,False,False
+Applebee's with Nicole Byer,474.0,2024-12-05,Applebee's,Fork rating,3.0,3.0,4.0,1,Nicole Byer,False,False
+IHOP Xbox Indiana Jones Menu with Mary Holland,475.0,2024-12-12,IHOP Xbox Indiana Jones Menu,Fork rating,3.5,4.0,2.5,1,Mary Holland,False,False
+Slice House with Evan Susser,476.0,2024-12-19,Slice House,Fork rating,3.5,4.0,3.99,1,Evan Susser,False,False
+Little Caesars 3 with Johnno Wilson,477.0,2025-01-09,Little Caesars,Fork rating,4.5,5.0,4.5,1,Johnno Wilson,False,False
+Big Mama's & Papa's Pizzeria with Zach Cherry,478.0,2025-01-16,Big Mama's & Papa's Pizzeria,Fork rating,3.75,4.0,3.99,1,Zach Cherry,False,False
+Krispy Kreme x Pop-tarts with Jess McKenna,479.0,2025-01-23,Krispy Kreme x Pop-tarts,Fork rating,4.0,4.0,4.0,1,Jess McKenna,False,False
+Handel's with Aniz Adam Ansari,480.0,2025-01-30,Handel's,Fork rating,5.0,4.5,4.5,1,Aniz Adam Ansari,False,False
+KFC Bowls with Carmen Christopher,481.0,2025-02-06,KFC Bowls,Fork rating,3.0,4.0,1.0,1,Carmen Christopher,False,False
+Chuck E. Cheese 2 with Griffin Newman,482.0,2025-02-13,Chuck E. Cheese,Fork rating,1.0,0.5,1.75,1,King of Kranch Newman,False,False
+Chick-fil-A 3 with John Hodgman,483.0,2025-02-20,Chick-fil-A,Fork rating,4.0,3.9,3.75,1,John Hodgman,False,False
+Mrs. Fields with Matt Singer,484.0,2025-02-27,Mrs. Fields,Fork rating,3.5,3.5,3.5,1,Matt Singer,False,False
+Cafe Gratitude with Bryan Quinby,489.0,2025-04-03,Cafe Gratitude,Fork rating,1.0,1.5,1.5,1,Bryan Quinby,False,False
+Carl's Jr./Hardee's 4 with Stavros Halkias,490.0,2025-04-10,Carl's Jr./Hardee's,Fork rating,3.5,4.0,3.75,1,Stavros Halkias,False,False
+Dickey's Barbecue Pit with Jamelle Bouie,491.0,2025-04-17,Dickey's Barbecue Pit,Fork rating,1.0,2.0,2.0,1,Jamelle Bouie,False,False
+Subway 5: Doritos Footlong Nachos with Toni Charline Ramos,492.0,2025-04-24,Doritos Footlong Nachos,Fork rating,1.0,1.0,2.0,1,Toni Charline Ramos,False,False
+Wendy's 4 with Brooks Wheelan,493.0,2025-05-01,Wendy's,Fork rating,4.5,4.5,3.0,1,Brooks Wheelan,False,False
+Panera 3 with Kimia Behpoornia,495.0,2025-05-15,Panera,Fork rating,4.0,3.5,4.0,1,Kimia Behpoornia,False,False
+Pret a Manger with Charlotte McDonnell and Libby Watson,496.0,2025-05-22,Pret a Manger,Fork rating,3.0,2.5,3.5,2,Charlotte McDonnell; Libby Watson,False,False
+Planet Hollywood with Griffin Newman and David Sims,497.0,2025-05-29,Planet Hollywood,Fork rating,0.0,1.0,1.0,2,Griffin Newman; David Sims,False,False
+Randy's Donuts with Gareth Reynolds,498.0,2025-06-05,Randy's Donuts,Fork rating,4.0,4.5,5.0,1,Gareth Reynolds,False,False
+Chili's 3 with Eva Anderson,,2025-06-19,Chili's,Fork rating,4.0,4.5,4.5,1,Eva Anderson,False,False
+Panda Express 4 with Matt Kowalick and Holly Prazoff,501.0,2025-06-26,Panda Express,Fork rating,5.0,5.0,5.0,2,Matt Kowalick; Holly Prazoff,False,False
+Taco Bell IX with Beck Bennett,502.0,2025-07-03,Taco Bell,Fork rating,4.5,4.5,4.0,1,Beck Bennett,False,False
+Pizza Hut 4 with Neil Campbell and Mitra Jouhari,503.0,2025-07-10,Pizza Hut,Fork rating,1.0,1.0,1.25,2,Neil Campbell; Mitra Jouhari,False,False
+Papa Johns 3 with Steve Sladkowski,505.0,2025-07-24,Papa Johns,Fork rating,3.5,3.5,3.25,1,Steve Sladkowski,False,False
+Jeni's Splendid Ice Creams 2 with Stephanie Beatriz and Michael Jonathan Smith,506.0,2025-07-31,Jeni's Splendid Ice Creams,Headband rating,4.5,5.0,4.125,2,Stephanie Beatriz; Michael Jonathan Smith,False,False
+Salt & Straw 2 with Saylor Curda and Tiana Okoye,507.0,2025-08-07,Salt & Straw,Ice Cream Truck rating,4.0,4.0,4.4,2,Saylor Bell Curda; Tiana Okoye,False,False
+Cold Stone Creamery 3 with Shaun Diston and Gilli Nissim,509.0,2025-08-21,Cold Stone Creamery,Stu's Pubes rating,3.0,1.5,2.125,2,Shaun Diston; Gilli Nissim,False,False
+McDonald's Ice Cream with Samoa Joe,510.0,2025-08-28,McDonald's Ice Cream,Harold rating,4.0,5.0,5.0,1,Samoa Joe,False,False
+Philz Coffee with Corin Wells,511.0,2025-09-04,Philz Coffee,Fork rating,3.5,2.5,2.0,1,Corin Wells,False,False
+Alfred Coffee with Sean Clements and Hayes Davenport,512.0,2025-09-11,Alfred Coffee,Fork rating,2.5,2.0,2.65,2,Sean Clements; Hayes Davenport,False,False
+Deluca's Italian Deli with Alana Hope Levinson and Dan O'Sullivan,513.0,2025-09-18,Deluca's Italian Deli,Fork rating,1.5,3.0,1.75,2,Alana Hope Levinson; Dan O'Sullivan,False,False
+Plant Power Fast Food with Ashly Burch and Mort Burke,514.0,2025-09-25,Plant Power Fast Food,Fork rating,3.0,3.0,3.0,1,Hashly Burp,False,False
+Silverlake Ramen with Betsy Sodaro,515.0,2025-10-02,Silverlake Ramen,Soup Fork rating,4.5,4.5,5.0,1,Betsy Sodaro,False,False
+Le Pain Quotidien 2 with Christine Nangle,516.0,2025-10-09,Le Pain Quotidien,Gator Peens rating,2.0,1.5,2.0,1,Christine Nangle,False,False
+Panera 4 with Jason Concepcion,517.0,2025-10-16,Panera,Phoenix Hogs rating,4.0,5.0,4.5,1,Jason Concepcion,False,False
+The Original Soup Kitchen with Stavros Halkias,518.0,2025-10-23,The Original Soup Kitchen,Afternooner rating,3.0,3.5,2.0,1,Stavros Halkias,False,False
+Daikokuya with Sandy Honig,519.0,2025-10-30,Daikokuya,Oyster Crackers rating,5.0,5.0,5.0,1,Sandy Honig,False,False
+Denny's 4 with Jesse Farrar,520.0,2025-11-06,Denny's,Fork rating,2.5,2.0,0.5,1,Jesse Farrar,False,False
+Costco 3 with Jesse Thorn,522.0,2025-11-20,Costco,Fork rating,5.0,4.0,4.0,1,Jesse Thorn,False,False
+The Toothsome Chocolate Emporium & Savory Feast Kitchen with Mark Rennie,523.0,2025-12-04,The Toothsome Chocolate Emporium & Savory Feast Kitchen,Fork rating,0.25,0.0,0.5,1,Mark Rennie,False,False
+Sizzler 2 with Nicole Byer,524.0,2025-12-11,Sizzler,Fork rating,4.0,4.0,5.0,1,Nicole Byer,False,False
+Steak 'n Shake 10 with Evan Susser,525.0,2025-12-18,Steak 'n Shake,Fork rating,5.0,1.0,5.0,1,Evan Susser,False,False
+La Colombe with Vic Michaelis,527.0,2026-01-15,La Colombe,Fork rating,3.0,2.0,2.0,1,Vic Michaelis,False,False
+KFC 4 with Cullen Crawford,528.0,2026-01-22,KFC,Fork rating,4.0,4.25,4.0,1,Cullen Crawford,False,False
+Trejo's Tacos with Lamar Woods,529.0,2026-01-29,Trejo's Tacos,Fork rating,4.0,4.0,4.5,2,Lamar Woods; Matt Apodaca,False,False
+Jack in the Box 3 with Johnny Pemberton,530.0,2026-02-05,Jack in the Box,Fork rating,4.0,2.5,4.0,1,Johnny Pemberton,False,False
+Edible Arrangements with Marisa Pinson and David Neher,531.0,2026-02-12,Edible Arrangements,Fork rating,4.0,4.0,2.75,2,David Neher; Marisa Pinson,False,False
+Ggiata Delicatessen with Vanessa Chester,532.0,2026-02-19,Ggiata Delicatessen,Fork rating,3.0,3.75,3.5,1,Vanessa Chester,False,False
+Houston's with Elena Crevello and Chelsea Davison,533.0,2026-02-26,Houston's,Fork rating,5.0,5.0,4.5,2,Elena Crevello; Chelsea Davison,False,False
+Habit Burger 2 with Bryan Quinby,537.0,2026-03-26,The Habit,Fork rating,2.5,3.25,2.5,1,Bryan Quinby,False,False
+Naturewell with Ben Rodgers,538.0,2026-04-02,Naturewell,Stroon rating,4.5,4.0,4.0,1,Ben Rodgers,False,False
+Publix with Jon Gabrus,539.0,2026-04-09,Publix,Fork rating,4.0,4.0,4.0,1,Jon Gabrus,False,False
+In-N-Out Burger 4 with Martin Starr,540.0,2026-04-16,In-N-Out Burger,Fork rating,5.0,5.0,5.0,1,Martin Starr,False,False
+Baskin-Robbins 2 with Emmy Blotnick,541.0,2026-04-23,Baskin-Robbins,Spoon rating,2.5,3.0,2.5,2,Emmy Blotnick; Emma Erdbrink,False,False
+Denny's 5 with Eva Anderson,542.0,2026-04-30,Denny's,Fork rating,1.0,0.0,0.5,1,Eva Anderson,False,False
+California Fish Grill with Gil Ozeri,543.0,2026-05-07,California Fish Grill,Fork rating,4.0,4.0,1.0,1,Gil Ozeri,False,False
+Burger King 8 with Joe Wengert,544.0,2026-05-14,Burger King,Light Saber Fork rating,3.5,3.5,3.0,1,Joe Wengert,False,False
+Coco Ichibanya with Matt Apodaca and Heather Anne Campbell,545.0,2026-05-21,Coco Ichibanya,Fork rating,5.0,5.0,5.0,2,Matt Apodaca; Heather Anne Campbell,False,False
+Firehouse Subs 2 with Brandie Posey,547.0,2026-06-04,Firehouse Subs,Fork rating,2.0,3.0,2.5,1,Brandie Posey,False,False
+Dunkin' 3 with Alyssa Limperis,548.0,2026-06-11,Dunkin',Fork rating,4.0,5.0,5.0,1,Alyssa Limperis,False,False
+Outback Steakhouse 4 with Tom Walker,549.0,2026-06-18,Outback Steakhouse,Fork rating,1.0,2.25,2.0,1,Tom Walker,False,False
+Buca di Beppo 2 with Chloe Radcliffe,550.0,2026-06-25,Buca di Beppo,Fork rating,0.75,1.5,2.0,1,Chloe Radcliffe,False,False
+"Chimmelier with John Early, Claudia O'Doherty, and Pat Regan",552.0,2026-07-16,Chimmelier,Fork rating,4.0,4.0,3.6666666666666665,3,John Early; Claudia O'Doherty; Pat Regan,False,False
+Little Caesars 5 with Kimmy Gatewood,553.0,2026-07-23,Little Caesars,Fork rating,4.0,5.0,3.5,1,Kimmy Gatewood,False,False
+Gus's World Famous Fried Chicken 2 with Sean Clements,554.0,2026-07-30,Gus's World Famous Fried Chicken,Fork rating,5.0,5.0,5.0,1,Sean Clements,False,False
+Gino's East with Carmen Christopher,555.0,2026-08-06,Gino's East,Fork rating,4.0,3.5,2.0,1,Carmen Christopher,False,False
+Fat Burger 3 & Buffalo's Express with Whitmer Thomas,556.0,2026-08-13,Fat Burger 3 & Buffalo's Express,Fork rating,4.5,4.5,4.5,1,Whitmer Thomas,False,False
+Domino's 4 with Clare O'Kane,557.0,2026-08-20,Domino's,Fork rating,5.0,5.0,5.0,1,Clare O'Kane,False,False
+Carney's with Jamie Loftus,558.0,2026-08-27,Carney's,Fork rating,5.0,5.0,4.25,2,Jamie Loftus; Ryan Luetzow,False,False
+BHC Chicken with Matt Selman,559.0,2026-09-03,BHC Chicken,Fork rating,3.5,4.0,3.5,1,Matt Selman,False,False
+Paris Baguette with Lesley Tsina,276.0,,Paris Baguette,Fork rating,4.0,4.0,3.5,1,Lesley Tsina,False,False
+Steak ‘n Shake with Evan Susser,,,Steak 'n Shake,Fork Rating,1.0,3.5,,0,,False,False
